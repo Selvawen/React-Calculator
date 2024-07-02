@@ -4,6 +4,26 @@
 
 The **React-Calculator** is a simple and efficient calculator application built using React. It provides basic arithmetic operations including addition, subtraction, multiplication, and division. This project is an excellent example of a functional React component utilizing hooks such as `useState` and `useRef`.
 
+## Table of Contents
+
+- [React-Calculator](#react-calculator)
+  - [Introduction](#introduction)
+  - [Demo](#demo)
+  - [Features](#features)
+  - [Built With](#built-with)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Code Overview](#code-overview)
+    - [Hooks](#hooks)
+    - [Functions](#functions)
+    - [Example Code Snippet](#example-code-snippet)
+  - [License](#license)
+
+
+
+## Demo
+
+
 ## Features
 
 - **Addition**: Add two numbers.
