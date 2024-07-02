@@ -22,6 +22,7 @@ The **React-Calculator** is a simple and efficient calculator application built 
 
 
 ## Demo
+![calculator-image](https://github.com/Selvawen/React-Calculator/assets/111338548/205e0805-9fcb-4184-9002-534be5ba54af)
 
 
 ## Features
