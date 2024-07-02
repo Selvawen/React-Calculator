@@ -25,10 +25,9 @@ The **React-Calculator** is a simple and efficient calculator application built 
 To get started with the React-Calculator, follow these steps:
 
 1. **Clone the repository:**
-
-   ```bash
+```bash
 git clone https://github.com/your-username/React-Calculator.git
-    ```
+```
 2. Navigate to the project directory:
 ```bash
 cd React-Calculator
